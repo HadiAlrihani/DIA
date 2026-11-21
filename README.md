@@ -35,4 +35,4 @@ _To be completed._
 
 ## Disclosure of AI Use
 
-_To be completed._
+We used Claude AI
