@@ -19,7 +19,7 @@ We want to identify which producing wells are likely to fail (based on factors s
 
 ## Research Question
 
-What factors predict the likelihood of well failure, and how can these factors be used to minimize the PCP wells’ downtime? 
+Can daily production, downtime and failure-history data predict which producing PCP wells will have a rod, pump or tubing failure in the near future, accurately enough to give operators a useful weekly watchlist? 
 
 ## External Sources
 
