@@ -19,20 +19,19 @@ We want to identify which producing wells are likely to fail (based on factors s
 
 ## Research Question
 
-> What factors enable us to predict well failure, and how do we determine which wells to repair first?
-
-## Summary of Findings
-
-_To be completed._
-
-## Methods
-
-_To be completed._
+What factors predict the likelihood of well failure, and how can these factors be used to minimize the PCP wells’ downtime? 
 
 ## External Sources
 
-_To be completed._
+Sources
+Oil price: WTI settled at US$83.21 on Nov 20, 2026 (
+QNA)
+WCS discount to WTI about US$26 in November 2026 (
+BOE Report, Nov 10, 
+BOEReport, Nov 6)
+Data: Strathcona Resources datasets via the Canary × Chirality 2026 Datathon (not
+redistributable)
 
 ## Disclosure of AI Use
 
-We used Claude AI
+We used Claude AI to review slides and our code.
